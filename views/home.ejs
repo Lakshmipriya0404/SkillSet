@@ -1,0 +1,20 @@
+<%- include("partials/header") -%> 
+    <form action="/" method="post">
+        <div class="form-group">
+            <input type="text" class="form-control" name="jobTitle" placeholder="Search for a job...">
+            <button type="submit" class="btn btn-primary" name="button">Search</button>
+        </div>        
+    </form>
+    <h1 class="content-header"> <%= Title %> </h1>
+    <p class="content-disclaimer" name="load"><%= Disclaimer %></p>
+    <div class="content">
+        <ul>
+            <% allData.forEach(function(data) { %>
+                    <li><%= data %></li>
+            <% }); %>  
+        </ul>
+    </div>
+    
+</div>
+
+<%- include("partials/footer") -%> 

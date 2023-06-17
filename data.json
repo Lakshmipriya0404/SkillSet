@@ -1,0 +1,201 @@
+[
+    {
+        "title": "ai",
+        "got": [
+            "sales",
+            "machine learning",
+            "customer focus",
+            "customer relations",
+            "data science",
+            "java",
+            "sql",
+            "python",
+            "banking",
+            "accounts"
+        ]
+    },
+    {
+        "title": "analyst",
+        "got": [
+            "customer relations",
+            "problem solving",
+            "sql",
+            "sql server",
+            "test cases",
+            "quality processes",
+            "java",
+            "unix",
+            "business analysis",
+            "requirements"
+        ]
+    },
+    {
+        "title": "backend developer",
+        "got": [
+            "backend",
+            "back office",
+            "back-end operations",
+            "java",
+            "microservices",
+            "spring boot",
+            "javascript",
+            "hibernate"
+        ]
+    },
+    {
+        "title": "engineer",
+        "got": [
+            "desktop support engineer",
+            "desktop support",
+            "troubleshooting skills",
+            "sales",
+            "troubleshooting"
+        ]
+    },
+    {
+        "title": "frontend developer",
+        "got": [
+            "javascript",
+            "css",
+            "html",
+            "frontend developer",
+            "jquery",
+            "java",
+            "angular js",
+            "react.js",
+            "front end",
+            "html5"
+        ]
+    },
+    {
+        "title": "software analyst",
+        "got": [
+            "java",
+            "javascript",
+            "sql",
+            "sql server",
+            "jquery",
+            "software development life cycle",
+            "software development",
+            "software",
+            "software engineering",
+            "computer science"
+        ]
+    },
+    {
+        "title": "cyber security",
+        "got": [
+            "cyber security",
+            "problem solving",
+            "external audit",
+            "network security",
+            "risk management",
+            "pci dss",
+            "risk analysis",
+            "security risk",
+            "data security",
+            "networking"
+        ]
+    },
+    {
+        "title": "data analyst",
+        "got": [
+            "data analysis",
+            "data analytics",
+            "sql",
+            "customer relations",
+            "reporting",
+            "microsoft excel",
+            "internship",
+            "power bi",
+            "data management",
+            "mis"
+        ]
+    },
+    {
+        "title": "software testing",
+        "got": [
+            "software testing",
+            "java",
+            "software development",
+            "testing",
+            "javascript",
+            "test cases",
+            "jquery",
+            "sql",
+            "regression testing",
+            "software testing life cycle"
+        ]
+    },
+    {
+        "title": "software developer",
+        "got": [
+            "java",
+            "javascript",
+            "sql",
+            "sql server",
+            "software development",
+            "jquery",
+            "software engineering"
+        ]
+    },
+    {
+        "title": "python developer",
+        "got": [
+            "python",
+            "django",
+            "mysql",
+            "html",
+            "css",
+            "sql",
+            "java",
+            "javascript",
+            "flask",
+            "aws"
+        ]
+    },
+    {
+        "title": "machine learning",
+        "got": [
+            "machine learning",
+            "python",
+            "sql",
+            "data science",
+            "big data",
+            "problem solving",
+            "java",
+            "internship",
+            "analytics",
+            "data analysis"
+        ]
+    },
+    {
+        "title": "node developer",
+        "got": [
+            "node.js",
+            "javascript",
+            "react.js",
+            "mongodb",
+            "php",
+            "html",
+            "java",
+            "angularjs",
+            "mysql"
+        ]
+    },
+    {
+        "title": "data engineer",
+        "got": [
+            "python",
+            "sql",
+            "java",
+            "data warehousing",
+            "informatica",
+            "big data",
+            "data analytics",
+            "data analysis",
+            "gcp",
+            "data engineering"
+        ]
+    }
+]
